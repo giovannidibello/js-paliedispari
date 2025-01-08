@@ -25,7 +25,7 @@ Esercizi Funzioni
 
 // chiedere all'utente di inserire un numero da 1 a 5
 
-// genera un numero random per il computer da 1 a 5
+// genera un numero random per il computer da 1 a 5 usando una funzione
 
 // sommiamo i due numeri
 
