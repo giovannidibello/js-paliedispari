@@ -37,8 +37,8 @@ function numeroRandom1to5() {
 }
 
 // crea una funzione che verifica se la somma è pari o dispari
-function pariODispari(sommaNumeri) {
-    if (sommaNumeri % 2 === 0) {
+function pariODispari(somma) {
+    if (somma % 2 === 0) {
         return "pari";
     } else {
         return "dispari";
